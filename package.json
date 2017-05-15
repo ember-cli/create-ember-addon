@@ -1,15 +1,15 @@
 {
-  "name": "create-ember-app",
+  "name": "create-ember-addon",
   "version": "0.1.1",
-  "description": "yarn create ember-app <name>",
+  "description": "yarn create ember-addon <name>",
   "keywords": [
     "ember",
     "ember-cli",
     "yarn"
   ],
-  "homepage": "https://github.com/ember-cli/create-ember-app#readme",
+  "homepage": "https://github.com/ember-cli/create-ember-addon#readme",
   "bugs": {
-    "url": "https://github.com/ember-cli/create-ember-app/issues"
+    "url": "https://github.com/ember-cli/create-ember-addon/issues"
   },
   "license": "MIT",
   "author": "Tobias Bieniek <tobias.bieniek@gmail.com>",
@@ -17,11 +17,11 @@
     "index.js"
   ],
   "bin": {
-    "create-ember-app": "index.js"
+    "create-ember-addon": "index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ember-cli/create-ember-app.git"
+    "url": "git+https://github.com/ember-cli/create-ember-addon.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

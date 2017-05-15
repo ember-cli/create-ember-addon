@@ -1,12 +1,12 @@
-create-ember-app
+create-ember-addon
 ==============================================================================
 
 ```
-yarn create ember-app <name>
+yarn create ember-addon <name>
 ```
 
 This is a small wrapper for [Ember CLI](https://github.com/ember-cli/ember-cli)
-and specifically the `ember new` command.
+and specifically the `ember addon` command.
 
 
 License
