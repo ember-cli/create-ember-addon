@@ -1,6 +1,8 @@
 create-ember-app
 ==============================================================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ember-cli/create-ember-addon.svg)](https://greenkeeper.io/)
+
 ```
 yarn create ember-app <name>
 ```
