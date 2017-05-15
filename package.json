@@ -1,6 +1,6 @@
 {
   "name": "create-ember-addon",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "yarn create ember-addon <name>",
   "keywords": [
     "ember",
